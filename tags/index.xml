@@ -5,60 +5,12 @@
     <link>https://ebehii.github.io/tags/</link>
       <atom:link href="https://ebehii.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://ebehii.github.io/images/icon_hu2c319f7229000c13d0475a17a9b5ca07_2018574_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://ebehii.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>Networks</title>
-      <link>https://ebehii.github.io/tags/networks/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Productivity</title>
-      <link>https://ebehii.github.io/tags/productivity/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/productivity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Working paper</title>
-      <link>https://ebehii.github.io/tags/working-paper/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/working-paper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Work in progress</title>
-      <link>https://ebehii.github.io/tags/work-in-progress/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/work-in-progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exporters</title>
-      <link>https://ebehii.github.io/tags/exporters/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/exporters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multinationals</title>
-      <link>https://ebehii.github.io/tags/multinationals/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/tags/multinationals/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,20 @@
     <link>https://ebehii.github.io/publication/</link>
       <atom:link href="https://ebehii.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebehii.github.io/images/icon_hu4b4feedb5b6f5dec812502759a08b60a_281221_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://ebehii.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Home-Country Effects of US Multinational Activity through Vertical and Horizontal Spillovers</title>
+      <link>https://ebehii.github.io/publication/mne_spillover/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ebehii.github.io/publication/mne_spillover/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Estimating Productivity in the Presence of Spillovers: Firm-level Evidence from the US Production Network</title>
@@ -25,14 +33,6 @@
       <link>https://ebehii.github.io/publication/bank_prod/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://ebehii.github.io/publication/bank_prod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Home-Country Effects of US Multinational Activity through Vertical and Horizontal Spillovers</title>
-      <link>https://ebehii.github.io/publication/mne_spillover/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/publication/mne_spillover/</guid>
       <description></description>
     </item>
     

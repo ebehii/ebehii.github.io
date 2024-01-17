@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Information Technology | Ebehi Iyoha</title>
+    <link>https://ebehii.github.io/tag/information-technology/</link>
+      <atom:link href="https://ebehii.github.io/tag/information-technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Information Technology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ebehii.github.io/images/icon_hu0a36e3cb93a9b2c23828a159d0b32399_1099193_512x512_fill_lanczos_center_2.png</url>
+      <title>Information Technology</title>
+      <link>https://ebehii.github.io/tag/information-technology/</link>
+    </image>
+    
+    <item>
+      <title>IT Adoption in Production Networks</title>
+      <link>https://ebehii.github.io/publication/it_adoption/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ebehii.github.io/publication/it_adoption/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

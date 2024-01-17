@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joel Rodrigue | Ebehi Iyoha</title>
-    <link>https://ebehii.github.io/author/joel-rodrigue/</link>
-      <atom:link href="https://ebehii.github.io/author/joel-rodrigue/index.xml" rel="self" type="application/rss+xml" />
-    <description>Joel Rodrigue</description>
+    <title>Eric Bond | Ebehi Iyoha</title>
+    <link>https://ebehii.github.io/author/eric-bond/</link>
+      <atom:link href="https://ebehii.github.io/author/eric-bond/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Bond</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ebehii.github.io/images/icon_hu0a36e3cb93a9b2c23828a159d0b32399_1099193_512x512_fill_lanczos_center_2.png</url>
-      <title>Joel Rodrigue</title>
-      <link>https://ebehii.github.io/author/joel-rodrigue/</link>
+      <title>Eric Bond</title>
+      <link>https://ebehii.github.io/author/eric-bond/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://ebehii.github.io/publication/trade_bundling/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://ebehii.github.io/publication/trade_bundling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Third-country Effects of the US-China Trade War: Evidence from Importer-Exporter Linkages</title>
-      <link>https://ebehii.github.io/publication/trade_war/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ebehii.github.io/publication/trade_war/</guid>
       <description></description>
     </item>
     
